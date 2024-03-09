@@ -80,7 +80,7 @@ Requests/sec:  38110.60
 Transfer/sec:      3.27MB
 ```
 
-That is about than 49% more requests per second. Additionally, some socket errors were encountered with Nginx.
+That is about 49% more requests per second. Additionally, some socket errors were encountered with Nginx.
 
 ## Usage
 ```
